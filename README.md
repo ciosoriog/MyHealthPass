@@ -21,7 +21,7 @@
 1. Create a database in MySQL, create an empty database schema and an user with table creation priviledges and data consumption, this database will be used for the data-storage backing and set up the environment
 2. Download or clone this repository into your directory of choice
 3. Open a terminal or command line according to your OS and point into the project directory
-4. Run `npm init` to install all dependencies
+4. Run `npm install` to install all dependencies
 5. Run `npm test` to run the unit tests, this process will also create create/update the database
 
 ## Run Tests
